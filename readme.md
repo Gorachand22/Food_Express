@@ -1,6 +1,5 @@
-![My Logo](logo.png)
-# FoodieExpress
 
+# FoodieExpress
 Welcome to FoodieExpress, a Streamlit-based web application mimicking a food delivery system. Explore different features, analyze data, and place orders seamlessly!
 
 
