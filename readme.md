@@ -23,7 +23,7 @@ Welcome to FoodieExpress, a Streamlit-based web application mimicking a food del
 
 ## Special Thanks
 
-I would like to express my sincere gratitude to [Nitish Singh] for their invaluable guidance and support throughout this project.
+I would like to express my sincere gratitude to Nitish Singh sir for their invaluable guidance and teaching that helped me to do this project.
 
 - [Nitish Singh]
   - GitHub: [@campusx-official] (https://github.com/campusx-official)
