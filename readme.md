@@ -12,6 +12,11 @@ Welcome to FoodieExpress, a Streamlit-based web application mimicking a food del
 - **[restaurants]:**
 - **[users]:**
 
+## Screenshots
+
+![FoodExpress Screenshot](https://github.com/Gorachand22/Food_Express/blob/main/images/OIG.png)
+
+
 ## Getting Started
 1. **Installation:**
    ```bash
